@@ -1,4 +1,4 @@
-# QPC – Question Creative Web Application for Plagiarism Checking
+# QPC – Question Creative Web Application with Builtin Plagiarism Checking
 
 **QPC** is a web-based application designed to detect and prevent plagiarism in creative question content. It assists educators, content creators, and institutions in ensuring the originality of questions by analyzing and comparing them against existing databases.
 
